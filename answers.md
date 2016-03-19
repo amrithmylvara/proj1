@@ -27,3 +27,5 @@ This sentence will flash an error message, taken from the errors field of pokemo
 This project was pretty cool. Got random bugs sometimes (like my throw a pokeball button disappeared without me changing anything) that were kinda frustrating, but the TAs were super helpful throughout. Thanks so much!
 
 # Extra credit: Link your Heroku deployed app
+
+https://github.com/amrithmylvara/proj1
